@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+catboost_info/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Large media, binaries & archives (>100MB violates GitHub push limits)
+*.mp4
+*.zip
+*.exe
+*.xlsx
+BCCC-CIRA-CIC-DoHBrw-2020.csv
+
+# Non-research Coursework submissions (UAS, UTS, AOL)
+AOL RM group 17-20260624020103/
+UAS RM Group 17 - 2802483184/
+UTS RM ANDREY APRILIADY 2802493752/
+UTS_RM_ACHAMD RAFIF ZAHRAN_2802483184/
+UTS_RM_2_4.pdf
+ChatGPT Image 8 Jun 2026, 23.26.17.png
+rm/
+
+# OS and Editor generated files
+Thumbs.db
+.DS_Store
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
