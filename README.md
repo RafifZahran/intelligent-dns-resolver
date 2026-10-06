@@ -4,15 +4,6 @@ An intelligent, privacy-preserving DNS gateway that leverages ensemble machine l
 
 ---
 
-## 👥 Authors & Affiliation
-
-**School of Computer Science, Bina Nusantara (BINUS) University, Jakarta, Indonesia**
-- **Achmad Rafif Zahran** (Lead Researcher) — *Computer Science Department* (`achmad.zahran@binus.ac.id`)
-- **M Mario** (Data Analyst) — *Computer Science Department* (`m.mario@binus.ac.id`)
-- **Ayu Maulina** — *Computer Science Department* (`ayu.maulina001@binus.ac.id`)
-- **Rafi Putra Winata** (Supervising Professor) — *Computer Science Department* (`rafi.winata@binus.ac.id`)
-- **Alfi Yusrotis Zakiyah** — *Mathematics & Statistics Department* (`alfi.zakiyyah@binus.edu`)
-
 ---
 
 ## 📌 Project Overview
